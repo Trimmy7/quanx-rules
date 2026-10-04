@@ -3,7 +3,7 @@
 
 host-suffix, muse.ai, Meta
 host-suffix, flowmusic.app, Gemini
-host-suffix, labs.google, Google
+host-suffix, labs.google, Gemini
 host-suffix, gw-yd.com, Sufficient
 host-suffix, hello-yundong.com, Sufficient
 host-suffix, rustdesk.com, direct
@@ -152,7 +152,10 @@ host-suffix, plasma.to, 台湾节点
 host-suffix, wd-gold.net, Fast Sfct
 host-suffix, hentaied.pro, Fast Sfct
 host-suffix, nssurge.org, Fast Sfct
-host, notebooklm-pa.googleapis.com, AI优选
-host-suffix, google.com, Fast Sfct
-host-suffix, gstatic.com, Sufficient
+host, notebooklm-pa.googleapis.com, Gemini
+host-suffix, notebooklm.google, Gemini
+host-suffix, googleapis.com, Gemini
+host-suffix, googleusercontent.com, Gemini
+host-suffix, google.com, Gemini
+host-suffix, gstatic.com, Gemini
 host-keyword, github, Sufficient
