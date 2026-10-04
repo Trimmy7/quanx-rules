@@ -1,0 +1,158 @@
+# Shared Quantumult X domain routing rules
+# Keep rule order. Policy names must exist in each device configuration.
+
+host-suffix, muse.ai, Meta
+host-suffix, flowmusic.app, Gemini
+host-suffix, labs.google, Google
+host-suffix, gw-yd.com, Sufficient
+host-suffix, hello-yundong.com, Sufficient
+host-suffix, rustdesk.com, direct
+host-suffix, heygen.com, 全球加速
+host-suffix, groqstatus.com, xAI
+host-suffix, groq.io, xAI
+host-suffix, gste.groq.io, xAI
+host-suffix, groq.com, xAI
+host-suffix, spacex.com, SpaceX
+host, sxcontent9668.azureedge.us, SpaceX
+host-suffix, getdesign.md, Fast Sfct
+host-suffix, chatgpt.com, OpenAI
+host-suffix, openai.com, OpenAI
+host-suffix, anthropic.com, Claude
+host-suffix, claude.com, Claude
+host-suffix, claude.ai, Claude
+host-suffix, claudeusercontent.com, Claude
+host-suffix, claudemcpclient.com, Claude
+host-suffix, claudemcpcontent.com, Claude
+host-suffix, ai.google.dev, Gemini
+host-suffix, gemini.google.com, Gemini
+host, generativelanguage.googleapis.com, Gemini
+host-suffix, copilot.microsoft.com, Copilot
+host-suffix, githubcopilot.com, Copilot
+host-suffix, perplexity.ai, Perplexity
+host-suffix, x.ai, xAI
+host-suffix, grok.com, xAI
+host-suffix, cursor.sh, AI通用
+host-suffix, cursor.com, AI通用
+host-suffix, poe.com, AI通用
+host-suffix, huggingface.co, AI通用
+host-suffix, hf.co, AI通用
+host-suffix, whatsapp.com, Meta
+host-suffix, whatsapp.net, Meta
+host-suffix, meta.com, Meta
+host-suffix, meta.ai, Meta
+host-suffix, llama.com, Meta
+host-suffix, threads.net, Meta
+host-suffix, threads.com, Meta
+host-suffix, messenger.com, Meta
+host-suffix, facebook.com, Meta
+host-suffix, fb.com, Meta
+host-suffix, fbsbx.com, Meta
+host-suffix, instagram.com, Meta
+host-suffix, cdninstagram.com, Meta
+host-suffix, cdninstagram.net, Meta
+host-suffix, fbcdn.net, Meta
+host-suffix, metaaivm.com, Meta
+host-suffix, multimango.com, Meta
+host-suffix, facebookvirtualassistant.com, Meta
+host-suffix, fbinfra.net, Meta
+host-suffix, fbpigeon.com, Meta
+host-suffix, internalfb.com, Meta
+host-suffix, pinkwallet.com, Sufficient
+host-suffix, blog.aibochinese.com, Sufficient
+host-suffix, ticket.alcazarsevilla.com, 狮城节点
+host-suffix, wd-turbo.com, direct
+host-suffix, itiger.com, Sufficient
+host-suffix, tigersecurities.com, Sufficient
+host, surrit.com, Sufficient
+host, esign.yyyue.xyz, Sufficient
+host, webtoon-phinf.pstatic.net, Sufficient
+host, yang-1989.eu.org, Sufficient
+host-suffix, sidestore.io, Sufficient
+host-suffix, t-mobile.com, Sufficient
+host, anima-25x-12.top, Fast Sfct
+host, m3u8s.highwinds-cdn.com, Fast Sfct
+host, da.picial.top, Fast Sfct
+host, ba.apperoni.top, Fast Sfct
+host-suffix, freeanimehentai.net, porn
+host-suffix, itangtalk.com, Fast Sfct
+host, itangtalk-com.cdn.ampproject.org, Fast Sfct
+host-suffix, rule34.xxx, porn
+host-suffix, hanime1.me, porn
+host, fp-it.fengkongcloud.com, Fast Sfct
+host, 7mmtv.sx, porn
+host-suffix, myav.com, porn
+host-suffix, 7mmtv.sx, porn
+host, client-rapi-missav.recombee.com, porn
+host-suffix, fourhoi.com, porn
+host, img.putaozywimg.com, Fast Sfct
+host, 666529.xyz, Fast Sfct
+host-suffix, javmenu.com, porn
+host, h-ciyuan.com, Fast Sfct
+host, cf5.h18ani6.vip, porn
+host-suffix, cableav.tv, porn
+host-suffix, hanime.xyz, porn
+host-suffix, mypikpak.com, Sufficient
+host, access.mypikpak.com, Fast Sfct
+host-suffix, greasyfork.org, Fast Sfct
+host-suffix, www.javlibrary.com, porn
+host-suffix, javbigo.com, porn
+host-suffix, c0.jdbstatic.com, Fast Sfct
+host, jdbstatic.com, Fast Sfct
+host-suffix, avgle.com, porn
+host-suffix, 7mmtv.tv, porn
+host-suffix, javdb.com, porn
+host-suffix, sexlikereal.com, porn
+host-suffix, redditspace.com, Fast Sfct
+host-suffix, saasexch.com, Fast Sfct
+host-suffix, wise.com, Wise
+host-suffix, transferwise.com, Wise
+host-suffix, byabcde.com, Bybit
+host-suffix, byapps.net, Bybit
+host-suffix, bybdc6.com, Bybit
+host-suffix, bybit-global.com, Bybit
+host-suffix, bybit.com, Bybit
+host-suffix, bybit.biz, Bybit
+host-suffix, bybit.cloud, Bybit
+host-suffix, bybitglobal.com, Bybit
+host-suffix, bycsi.com, Bybit
+host-suffix, api3.byd3c3.com, 狮城节点
+host-suffix, byd3c3.com, Bybit
+host-suffix, binance.us, Fast Sfct
+host-suffix, missav.ws, porn
+host-suffix, dingyueapi.win, Sufficient
+host, ad.12306.cn, direct
+host, sdkapp.uve.weibo.com, direct
+host-suffix, github.com, GitHub
+host-suffix, githubusercontent.com, GitHub
+host-suffix, githubassets.com, GitHub
+host-suffix, whos.tv, porn
+host-suffix, missav.ai, porn
+host-suffix, missav.com, porn
+host-keyword, missav, porn
+host-suffix, surrit.com, porn
+host-suffix, sixyik.com, porn
+host-suffix, sexbjcam.com, Sufficient
+host-suffix, leakgallery.com, Sufficient
+host-suffix, onlyfanleaks.me, Sufficient
+host-suffix, koreanbj.club, Sufficient
+host-suffix, gofile.io, Sufficient
+host-suffix, skbj.tv, Sufficient
+host-suffix, sexkbj.tv, Sufficient
+host-suffix, bybitgeorgia.ge, Sufficient
+host, www.bybitx.global, Sufficient
+host-suffix, bybitx.global, Sufficient
+host-suffix, browser-intake-us5-datadoghq.com, reject
+host, browser-intake-us5-datadoghq.com, reject
+host-suffix, amazon.cn, direct
+host-suffix, ddgksf2013.top, Sufficient
+host-suffix, iosgods.com, Sufficient
+host-suffix, pay-tasks.prod.plasma-one.tech, 台湾节点
+host-suffix, plasma-one.tech, 台湾节点
+host-suffix, plasma.to, 台湾节点
+host-suffix, wd-gold.net, Fast Sfct
+host-suffix, hentaied.pro, Fast Sfct
+host-suffix, nssurge.org, Fast Sfct
+host, notebooklm-pa.googleapis.com, AI优选
+host-suffix, google.com, Fast Sfct
+host-suffix, gstatic.com, Sufficient
+host-keyword, github, Sufficient
