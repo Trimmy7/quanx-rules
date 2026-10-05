@@ -1,6 +1,6 @@
 # QuanX shared routing rules
 
-从合并后的 Mac / iPhone 配置中提取的 158 条域名分流规则。仅包含域名、匹配方式和策略组名称；不包含节点订阅、密码、token、证书或 DNS 配置。
+从合并后的 Mac / iPhone 配置中提取的 164 条域名分流规则。仅包含域名、匹配方式和策略组名称；不包含节点订阅、密码、token、证书或 DNS 配置。
 
 ## 订阅
 
@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/Trimmy7/quanx-rules/main/routing.list, tag=Tri
 
 ## 策略组
 
-手机和电脑需要具有下列同名策略组，组内选择什么节点可由每台设备自己决定：
+手机和电脑需要具有下列同名策略组：
 
-AI通用, Bybit, Claude, Copilot, Fast Sfct, Gemini, GitHub, Meta, OpenAI, Perplexity, SpaceX, Sufficient, Wise, porn, xAI, 全球加速, 台湾节点, 狮城节点
+AI通用, Bybit, Claude, Copilot, Fast Sfct, GitHub, Google, Meta, OpenAI, Perplexity, SpaceX, Sufficient, Wise, porn, xAI, 全球加速, 台湾节点, 狮城节点
 
-Google 登录、Gemini、NotebookLM、Google API 和静态资源统一使用 `Gemini` 组，建议在该组选择固定可用节点。设备上的 Google 远程规则订阅也应设置 `force-policy=Gemini`，使其余 Google 域名保持相同出口。
+Google 搜索、Gmail、Drive、YouTube、Gemini、NotebookLM、登录、API 和静态资源统一使用 `Google` 组。关联的 iCloud 配置将 Google 固定到 `US - Los Angeles - Quanx`，原 Gemini 组作为指向 Google 的兼容入口。Google、Gemini、Google Voice 的远程规则订阅均使用 `force-policy=Google`。仅订阅本仓库的设备需要自行完成策略组设置。
