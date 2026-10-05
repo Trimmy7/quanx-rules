@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/Trimmy7/quanx-rules/main/routing.list, tag=Tri
 
 AI通用, Bybit, Claude, Copilot, Fast Sfct, GitHub, Google, Meta, OpenAI, Perplexity, SpaceX, Sufficient, Wise, porn, xAI, 全球加速, 台湾节点, 狮城节点
 
-Google 搜索、Gmail、Drive、YouTube、Gemini、NotebookLM、登录、API 和静态资源统一使用 `Google` 组。关联的 iCloud 配置将 Google 固定到 `US - Los Angeles - Quanx`，原 Gemini 组作为指向 Google 的兼容入口。Google、Gemini、Google Voice 的远程规则订阅均使用 `force-policy=Google`。仅订阅本仓库的设备需要自行完成策略组设置。
+Google 搜索、Gmail、Drive、YouTube、Gemini、NotebookLM、登录、API 和静态资源统一使用 `Google` 组。关联的 iCloud 配置保留 Google 和 Gemini 原有的全部节点选项；Google 产品的实际出口由 Google 组当前选择决定，可选择 `US - Los Angeles - Quanx`。Google、Gemini、Google Voice 的远程规则订阅均使用 `force-policy=Google`。仅订阅本仓库的设备需要自行完成策略组设置。
